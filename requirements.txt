@@ -4,7 +4,7 @@ Webpack (imports/exports)
     Eslint
     2 modes
         - Dev
-            Dev Server, SouceMaps, Eslint, Not Minified JS & CSS
+            Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
         - Prod
             Minified Code
 Git
